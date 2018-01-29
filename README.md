@@ -1,1 +1,1 @@
-# English-Text-Differences
+# The purpose of this project is to see how much difference in English script there are between the US and European version of a game. In this case, I will be using a game called "Legend of Zelda: Spirit Tracks" to calculate this.
